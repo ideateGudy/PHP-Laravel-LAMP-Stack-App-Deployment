@@ -1,6 +1,4 @@
-# Second Semester Exam
-
-## (Deploy LAMP Stack)
+# (Deploy LAMP Stack)
 
 ## `Objective:`
 
